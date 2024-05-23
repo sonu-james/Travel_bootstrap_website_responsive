@@ -135,6 +135,16 @@ border: solid 1px;
     font-size: 30px;
     transition: 0.2s;
 } 
+@media(max-width:650px){
+    #navbarSupportedContent{
+        background-color: #000000be;
+        height: 410px;
+        padding: 3px;
+      
+        
+    }
+    
+}
 /* .navbar-toggler-icon{
    background-color: lightcyan;
 } */
@@ -434,7 +444,7 @@ div.elem-group {
         height: 1000px;
     }
     .carousel-item{
-        height: 700px;  
+        height: 500px;  
     }
     .testimonial{
         padding-bottom: 10px;
